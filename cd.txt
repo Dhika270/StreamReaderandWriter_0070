@@ -1,0 +1,1 @@
+ "c:\Users\Andhika\Documents\Pemdas 2\P14\" ; if ($?) { g++ ExceptionStandart.cpp -o ExceptionStandart } ; if ($?) { .\ExceptionStandart }
