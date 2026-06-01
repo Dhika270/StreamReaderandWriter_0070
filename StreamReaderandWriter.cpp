@@ -46,5 +46,8 @@ int main()
             cout << baris << endl;
         }
 
-        
+        //menutup file jika telah selesai
+        infile.close();
+    }
+    
 }
